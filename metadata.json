@@ -1,0 +1,8 @@
+{
+  "name": " SmartTrack ",
+  "description": "A formal, secure academic attendance management system with role-based access, device binding, and QR-based verification.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
